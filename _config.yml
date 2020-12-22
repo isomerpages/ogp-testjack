@@ -21,6 +21,9 @@ collections:
   folder-creation:
     permalink: '/:collection/:path/:title'
     output: true
+  folder-creation-2:
+    permalink: '/:collection/:path/:title'
+    output: true
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government
 permalink: none
