@@ -18,9 +18,6 @@ colors:
 collections:
   Jackson-test:
     output: true
-  folder-creation:
-    permalink: '/:collection/:path/:title'
-    output: true
   folder-creation-2:
     permalink: '/:collection/:path/:title'
     output: true
