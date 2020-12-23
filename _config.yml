@@ -18,9 +18,6 @@ colors:
 collections:
   Jackson-test:
     output: true
-  folder-creation-2:
-    permalink: '/:collection/:path/:title'
-    output: true
   folder-creation-3:
     output: true
 resources_name: After-Office-Hour
