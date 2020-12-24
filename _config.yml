@@ -22,6 +22,8 @@ collections:
     output: true
   folder-creation-4:
     output: true
+  folder-creation-5:
+    output: true
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government
 permalink: none
