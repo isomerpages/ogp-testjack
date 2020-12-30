@@ -1,6 +1,6 @@
 ---
 title: Example 1
-permalink: /example/test1
+permalink: /test-1
 ---
 
 This is a line with 
