@@ -2,15 +2,9 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
-  - title: What Up
+  - title: Highlights
     url: /What-up/
-  - title: Jackson Test
+  - title: Collection Folder
     collection: Jackson-test
   - title: After Office Hour
     resource_room: true
-  - title: Folder Creation 3
-    collection: folder-creation-3
-  - title: Folder Creation 4
-    collection: folder-creation-4
-  - title: Folder Creation 5
-    collection: folder-creation-5
