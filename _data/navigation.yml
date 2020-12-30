@@ -4,5 +4,7 @@ links:
     url: /contact-us/
   - title: Highlights
     url: /What-up/
+  - title: Examples Folder
+    url: /examples-folder/
   - title: After Office Hour
     resource_room: true
