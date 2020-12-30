@@ -16,8 +16,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
-  Jackson-test:
-    output: true
   folder-creation-3:
     output: true
   folder-creation-4:
