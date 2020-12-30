@@ -5,6 +5,6 @@ links:
   - title: Highlights
     url: /What-up/
   - title: Examples Folder
-    url: /examples-folder/
+    collection: examples-folder 
   - title: After Office Hour
     resource_room: true
