@@ -4,7 +4,5 @@ links:
     url: /contact-us/
   - title: Highlights
     url: /What-up/
-  - title: Collection Folder
-    collection: Jackson-test
   - title: After Office Hour
     resource_room: true
