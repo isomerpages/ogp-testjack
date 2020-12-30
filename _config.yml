@@ -16,6 +16,8 @@ colors:
     - title: media-color-five
       color: '#00838f'
 collections:
+  examples-folder:
+    output: true
   folder-creation-3:
     output: true
   folder-creation-4:
