@@ -29,6 +29,6 @@ sections:
       button: Button text
       url: /faq/
   - resources:
-      title: what
+      title: testing resource section title
       subtitle: testing
 ---
