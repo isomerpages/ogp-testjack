@@ -1,4 +1,4 @@
-title: Title
+title: Test
 url: ''
 favicon: /images/favicon-isomer.ico
 colors:
@@ -52,3 +52,4 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+is_government: true
