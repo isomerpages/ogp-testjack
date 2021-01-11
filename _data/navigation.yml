@@ -6,3 +6,5 @@ links:
     url: /for-trg/
   - title: Examples Folder
     collection: examples-folder
+  - title: Resource Room
+    resource_room: true
