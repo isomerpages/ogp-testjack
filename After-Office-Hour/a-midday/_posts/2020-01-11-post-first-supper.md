@@ -4,7 +4,7 @@ date: '2020-01-11'
 permalink: permalink
 ---
 
-10 Feb 2021
+ 
 
 ### **Update on the Professional Practice Examination 2020**
 
