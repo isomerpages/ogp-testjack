@@ -9,8 +9,7 @@ permalink: permalink
 
 1.	The Board would like to update the candidates who have signed up for the Professional Practice Examination 2020 that the written examination will be held on **31 Mar 2021** at the National University of Singapore. Candidates who are eligible to sit for the written examination will be notified via email.
 
-  **SAFE MANAGEMENT MEASURES**
-
+**SAFE MANAGEMENT MEASURES**
 2.	The following Safe Management Measures (SMM) will be implemented at the examination venue to safeguard the well-being of candidates and staff amidst the COVID-19 pandemic:
 
 * Temperature taking and visual screening of all candidates. 
