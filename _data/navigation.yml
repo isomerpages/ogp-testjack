@@ -10,3 +10,13 @@ links:
     resource_room: true
   - title: Examples Folders 2
     collection: Examples-folders-2
+  - title: Example folder 3
+    collection: example-folder3
+  - title: Example folder 4
+    collection: example-folder4
+  - title: Example folder 5
+    collection: example-folder5
+  - title: Example folder 6
+    collection: example-folder6
+  - tile: Example folder 7
+    collection: example-folder7
