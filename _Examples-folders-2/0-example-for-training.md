@@ -17,8 +17,8 @@ permalink: /example-folder-2
   </tr> 
   <tr>
     <td>Goods and Services Tax 1/2021</td>
-    <td>May: 17, 18<br>
-    </tr> 
+    <td>May: 17, 18<br></td>
+  </tr> 
   <tr>
     <td>Goods and Services Tax 2/2021</td>
     <td>Sep 2021</td>
@@ -38,7 +38,7 @@ permalink: /example-folder-2
 </table>
 
  
-#### **Executive Tax Programme Level II**
+##### **Executive Tax Programme Level II**
 
 <table>
   <tr>
