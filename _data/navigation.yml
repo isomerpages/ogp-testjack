@@ -3,7 +3,7 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: training
-    url: /for-trg/
+    url: 'https://insight.mlaw.gov.sg/'
   - title: Examples Folder
     collection: examples-folder
   - title: Resource Room
