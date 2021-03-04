@@ -1,7 +1,7 @@
 ---
 title: testpost
 date: '2020-01-11'
-permalink: permalink
+permalink: /media/media-releases/2021-03-04-refreshed-singpass-reflects-improved-services-and-drives-digital-innovations-with-private-sector
 ---
 
  
