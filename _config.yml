@@ -18,18 +18,7 @@ colors:
 collections:
   examples-folder:
     output: true
-  Examples-folders-2:
-    output: true
-  examples-folder3:
-    output: true
-  examples-folder4:
-    output: true
-  examples-folder5:
-    output: true
-  examples-folder6:
-    output: true
-  examples-folder7:
-    output: true
+
     
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government
