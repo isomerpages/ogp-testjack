@@ -4,8 +4,26 @@ permalink: /example-folder-2
 ---
 
 
- 
-<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fparkingsgapp%2F&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="500" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+<html>
+<head>
+  <title>Your Website Title</title> 
+</head>
+<body>
 
+  <!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
 
-<iframe src="https://pro.panopto.com/Panopto/Pages/Embed.aspx?tid=9d6584f5-c07b-4962-a9ab-acde00af9e4a&autoplay=false&offerviewer=true&showtitle=true&showbrand=false&start=0&interactivity=all" width=720 height=405 style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+  <!-- Your embedded video player code -->
+  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
+    <div class="fb-xfbml-parse-ignore">
+      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
+        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
+        <p>How to share with just friends.</p>
+        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
+      </blockquote>
+    </div>
+  </div>
+
+</body>
+</html>
