@@ -20,6 +20,8 @@ collections:
     output: true
   training-material-for-users:
     output: true
+  test-for-training:
+    output: true
 
     
 resources_name: After-Office-Hour
