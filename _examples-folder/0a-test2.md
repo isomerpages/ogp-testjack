@@ -1,6 +1,7 @@
 ---
-title: Example 1
-permalink: /test-1-sub
+title: Overview
+permalink: /testing
+third_nav_title: Example 1
 ---
 
 hello this is a subpage
