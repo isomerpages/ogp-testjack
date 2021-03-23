@@ -5,27 +5,9 @@ permalink: /test-1
 
 This is a line with 
 <br>break
+<div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5faa7cd05ba2e70011d69279">here</a>.</div>
 
-<html>
-<head>
-  <title>Your Website Title</title> 
-</head>
-<body>
+<!-- Change the width and height values to suit you best -->
+<iframe id="iframe" src="https://form.gov.sg/5faa7cd05ba2e70011d69279" style="width:100%;height:500px"></iframe>
 
-  <!-- Load Facebook SDK for JavaScript -->
-  <div id="fb-root"></div>
-  <script async defer src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.2"></script>
-
-  <!-- Your embedded video player code -->
-  <div class="fb-video" data-href="https://www.facebook.com/facebook/videos/10153231379946729/" data-width="500" data-show-text="false">
-    <div class="fb-xfbml-parse-ignore">
-      <blockquote cite="https://www.facebook.com/facebook/videos/10153231379946729/">
-        <a href="https://www.facebook.com/facebook/videos/10153231379946729/">How to Share With Just Friends</a>
-        <p>How to share with just friends.</p>
-        Posted by <a href="https://www.facebook.com/facebook/">Facebook</a> on Friday, December 5, 2014
-      </blockquote>
-    </div>
-  </div>
-
-</body>
-</html>
+<div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
