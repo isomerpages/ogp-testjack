@@ -12,6 +12,10 @@ sections:
       background: /images/App-UI-Design-Mockup.jpg
       button: Contact Us
       url: /contact-us/
+      key_highlights:
+        - title: MOM
+          description: MOM website
+          url: 'https://google.com'
   - infobar:
       title: Infobar title
       subtitle: Subtitle
