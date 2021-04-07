@@ -18,12 +18,8 @@ colors:
 collections:
   examples-folder:
     output: true
-  training-material-for-users:
-    output: true
   test-for-training:
     output: true
-
-    
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government
 permalink: none
