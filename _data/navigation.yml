@@ -12,8 +12,5 @@ links:
     collection: examples-folder
   - title: Resource Room
     resource_room: true
-  - title: Training collection
-    collection: training-material-for-users
   - title: Training for today
     collection: test-for-training
-
