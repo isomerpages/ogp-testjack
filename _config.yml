@@ -6,19 +6,21 @@ colors:
   secondary-color: '#4372d6'
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: '#b0f303'
     - title: media-color-two
-      color: '#744d9f'
+      color: '#ba7f3d'
     - title: media-color-three
       color: '#00838f'
     - title: media-color-four
-      color: '#00838f'
+      color: '#e3d9b2'
     - title: media-color-five
-      color: '#00838f'
+      color: '#b0f303'
 collections:
   examples-folder:
     output: true
-  Examples-folders-2:
+  test-for-training:
+    output: true
+  training-for-today:
     output: true
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government

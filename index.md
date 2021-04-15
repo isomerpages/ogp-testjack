@@ -4,24 +4,20 @@ title: Test
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use! <br> Here's a line with a break
+notification: >-
+  Here's a notification bar you can use! <br> Here's a line with a break<a
+  href="https://github.com/isomerpages/enterprisesg-wmo/raw/staging/files/announcements/circular-cw-wm-200501-2-weights-and-measures-fee.pdf">test</a>
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      title: This is for training
+      subtitle: 'test '
+      background: /images/App-UI-Design-Mockup.jpg
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: MOM
+          description: MOM website
           url: 'https://google.com'
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: 'https://gmail.com'
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle

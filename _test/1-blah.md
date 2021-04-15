@@ -1,8 +1,10 @@
 ---
-title: Example for training
-permalink: /
+title: Example 2
+permalink: /blah
 ---
 
+This is a line with 
+<br>break
 
 <html>
 <head>

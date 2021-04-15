@@ -2,11 +2,18 @@ logo: /images/isomer-logo.svg
 links:
   - title: Contact Us
     url: /contact-us/
+  - title: FAQ
+    url: /faq/
+  - title: about us
+    url: /about-us/
+  - title: new page
+    url: /this-is-for-training/
   - title: training
-    url: /for-trg/
+    url: 'https://insight.mlaw.gov.sg/'
   - title: Examples Folder
     collection: examples-folder
   - title: Resource Room
     resource_room: true
-  - title: Examples Folders 2
-    collection: Examples-folders-2
+  - title: Hello everyone
+    collection: training-for-today
+    
