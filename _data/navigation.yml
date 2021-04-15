@@ -12,5 +12,5 @@ links:
     collection: examples-folder
   - title: Resource Room
     resource_room: true
-  - title: Training for today
-    collection: test-for-training
+  - title: Hello everyone
+    collection: training-for-today
