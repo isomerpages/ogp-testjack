@@ -6,6 +6,8 @@ links:
     url: /faq/
   - title: about us
     url: /about-us/
+  - title: new page
+    url: /this-is-for-training/
   - title: training
     url: 'https://insight.mlaw.gov.sg/'
   - title: Examples Folder
@@ -14,3 +16,4 @@ links:
     resource_room: true
   - title: Hello everyone
     collection: training-for-today
+    
