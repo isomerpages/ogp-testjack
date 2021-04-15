@@ -20,6 +20,8 @@ collections:
     output: true
   test-for-training:
     output: true
+  training-for-today:
+    output: true
 resources_name: After-Office-Hour
 description: An Isomer site of the Singapore Government
 permalink: none
