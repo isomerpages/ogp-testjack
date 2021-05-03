@@ -4,8 +4,7 @@ title: Test
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: >-
-Our office is temporarily closed from 3 May 2021 until further notice. <br>Our programmes are still running as scheduled, online. For the latest updates, please refer to the respective pages on this website. For enquiries, please contact us via Enquiries and Feedback Form. <a href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Feedback Form</a>
+notification: >-Our office is temporarily closed from 3 May 2021 until further notice. <br>Our programmes are still running as scheduled, online. For the latest updates, please refer to the respective pages on this website. For enquiries, please contact us via Enquiries and Feedback Form. <a href="https://form.gov.sg/#!/5d2c51283703d80011e52615">Feedback Form</a>
 sections:
   - hero:
       title: This is for training
