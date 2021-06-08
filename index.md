@@ -15,7 +15,7 @@ sections:
       url: /contact-us/
       key_highlights:
         - title: MOM
-          description: [test](https://form.gov.sg/#!/60a6180b4b811b0011e49f29)
+          description: asd[test](https://form.gov.sg/#!/60a6180b4b811b0011e49f29)
           url: 'https://google.com'
   - infobar:
       title: Infobar title
